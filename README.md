@@ -1,6 +1,6 @@
 # Apresentação:
 
-Meu nome é **Rafael Sá** e estou fazendo a disciplina de **Linguagem de programação II**
+Meu nome é **Rafael Sá** e estou fazendo a disciplina de **Linguagem de Programação II**. Sou estudante de Ciência da Computação na UERJ.
 
 ## Sobre o que eu gosto de estudar:
 
